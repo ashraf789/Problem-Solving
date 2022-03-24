@@ -1,0 +1,6 @@
+D:\Problem-Solving\Turing\Language C#\ConsoleProject\bin\Debug\ConsoleApp1.exe.config
+D:\Problem-Solving\Turing\Language C#\ConsoleProject\bin\Debug\ConsoleApp1.exe
+D:\Problem-Solving\Turing\Language C#\ConsoleProject\bin\Debug\ConsoleApp1.pdb
+D:\Problem-Solving\Turing\Language C#\ConsoleProject\obj\Debug\ConsoleProject.csproj.CoreCompileInputs.cache
+D:\Problem-Solving\Turing\Language C#\ConsoleProject\obj\Debug\ConsoleApp1.exe
+D:\Problem-Solving\Turing\Language C#\ConsoleProject\obj\Debug\ConsoleApp1.pdb
